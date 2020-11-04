@@ -15,7 +15,7 @@ function Feed() {
                 message='Sample Message'
                 timestamp='this is time stammp'
                 username='lee min ho'
-                image="https://dw9to29mmj727.cloudfront.net/properties/2016/526-SeriesThumb_OP_400x320.png"
+                image="https://dw9to29mmj727.cloudfront.net/properties/2016/526-SeriesThumb_OP_400x320.png "
             />
             <Post />
             <Post />
